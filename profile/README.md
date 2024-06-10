@@ -27,7 +27,8 @@ ToFindPill은 다음과 같은 주요 구성 요소로 이루어져 있습니다
 - **Model Server**: YOLO VISION을 이용한 약물 이미지 분석 및 인식
 - **Database**: MongoDB를 사용하여 사용자 정보와 약물 인식 결과를 저장
 
-![System Architecture](images/system_architecture.png)
+
+![System Architecture](https://github.com/ToFindPill/images/system.png)
 
 ## 설치 방법
 1. **Node.js 설치**: [Node.js](https://nodejs.org) 웹사이트에서 설치.
